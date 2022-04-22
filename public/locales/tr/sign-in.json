@@ -1,0 +1,12 @@
+{
+    "remember_me": "Beni Hatırla",
+    "forgot_password": "Şifrenizi mi unuttunuz?",
+    "or_continue_with": "Yada Devam Et",
+    "sign_in": "Giriş Yap",
+    "sign_in_to_your_account": "Hesabınıza giriş yapın",
+    "email_address": "E-Posta Adresi",
+    "password": "Şifre",
+    "auth/user-not-found": "Kullanıcı bulunamadı",
+    "auth/wrong-password": "Şifreniz yanlış",
+    "auth/too-many-requests": "Birçok başarısız oturum açma girişimi nedeniyle bu hesaba erişim geçici olarak devre dışı bırakıldı. Şifrenizi sıfırlayarak hemen geri yükleyebilir veya daha sonra tekrar deneyebilirsiniz."
+}

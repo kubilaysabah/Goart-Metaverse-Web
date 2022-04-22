@@ -1,0 +1,47 @@
+{
+  "projects": {
+    "dev": "dev-goart",
+    "prod": "prod-goart",
+    "staging": "staging-goart",
+    "test": "test-goart",
+    "hotfix": "hotfix-goart",
+    "default": "dev-goart"
+  },
+  "targets": {
+    "dev-goart": {
+      "hosting": {
+        "goart-web": [
+          "dev-goart-portal"
+        ]
+      }
+    },
+    "test-goart": {
+      "hosting": {
+        "goart-web": [
+          "test-goart-portal"
+        ]
+      }
+    },
+    "prod-goart": {
+      "hosting": {
+        "goart-web": [
+          "prod-goart-portal"
+        ]
+      }
+    },
+    "staging-goart": {
+      "hosting": {
+        "goart-web": [
+          "staging-goart-portal"
+        ]
+      }
+    },
+    "hotfix-goart": {
+      "hosting": {
+        "goart-web": [
+          "hotfix-goart-portal"
+        ]
+      }
+    }
+  }
+}

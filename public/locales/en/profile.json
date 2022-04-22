@@ -1,0 +1,15 @@
+{
+    "profile": "Profile",
+    "title": "Personal information",
+    "description": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet....",
+    "specify": "Please specify",
+    "multiple_selection": "Multiple Selection",
+    "wallet_address": "Wallet Address",
+    "wallet_placeholder": "Save your wallet address...",
+    "wallet_message": "You can't change after you saved your wallet adress",
+    "profile_message": "You can't change after you saved your Personal Information.",
+    "policy_1": "By ticking this box, I agree to",
+    "policy_2": "customer terms of service, privacy policy and cookie policy.",
+    "save": "Save",
+    "country": "Country"
+}

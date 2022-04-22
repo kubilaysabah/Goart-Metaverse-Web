@@ -1,0 +1,10 @@
+{
+    "sign-in": "Sign In",
+    "sign-out": "Sign Out",
+    "copyright": "© 2022 GoArt Inc. All rights reserved.",
+    "back_link": "Turn to Campaign Page",
+    "navigation": {
+        "campaign": "Campaign",
+        "leaderboard": "Leaderboard"
+    }
+}

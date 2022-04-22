@@ -1,0 +1,15 @@
+{
+    "profile": "Profil",
+    "title": "Kişisel Bilgiler",
+    "description": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet....",
+    "specify": "Belirtiniz",
+    "multiple_selection": "Çoklu seçim",
+    "wallet_address": "Cüzdan Adresi",
+    "wallet_placeholder": "Cüzdan adresini kaydet...",
+    "wallet_message": "Kaydettikten sonra cüzdan adresinizi değiştremezsiniz.",
+    "profile_message": "Kişisel bilgilerinizi kaydettikten sonra değiştiremezsiniz.",
+    "policy_1": "By ticking this box, I agree to",
+    "policy_2": "customer terms of service, privacy policy and cookie policy.",
+    "save": "Kaydet",
+    "country": "Ülke"
+}
